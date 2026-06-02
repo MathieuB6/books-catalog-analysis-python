@@ -28,7 +28,7 @@ Les données ont été collectées avec Python, puis nettoyées et analysées av
 - Jupyter Notebook
 - GitHub
 
-## Analyses réalises
+## Analyses réalisées
 
 - Indicateurs généraux du catalogue
 - Distribution des prix
@@ -56,7 +56,8 @@ Top 10 des livres les plus chers
 
 Prix moyen par note
 
-<img width="2070" height="1467" alt="rating_distribution" src="https://github.com/user-attachments/assets/bd7e4db9-3f4e-413b-b925-797467c56d49" />
+<img width="2072" height="1467" alt="price_by_rating" src="https://github.com/user-attachments/assets/6c83f2da-5deb-43c3-9887-1e8c76bfa5c1" />
+
 
 ## Insights principaux
 
@@ -66,7 +67,7 @@ Prix moyen par note
 - Tous les livres sont indiqués comme disponibles, mais les quantités en stock varient selon les titres.
 - Les livres les plus chers ne sont pas forcément les mieux notés.
 
-##Conclusion 
+## Conclusion 
 
 Ce projet démontre un workflow complet de data analyse avec Python : collecte de données, nettoyage, analyse exploratoire, visualisation et restitution sur GitHub.
 
@@ -79,12 +80,12 @@ This project analyzes a book catalog automatically collected from Books to Scrap
 The data was collected with Python, then cleaned and analyzed using Pandas.
 
 ## Objectives
-collect data through web scraping;
-structure data into a DataFrame;
-clean prices, ratings and stock information;
-generate descriptive indicators;
-create visualizations;
-produce business insights.
+- Collect data through web scraping;
+- Structure data into a DataFrame;
+- Clean prices, ratings and stock information;
+- Generate descriptive indicators;
+- Create visualizations;
+- Produce business insights.
 
 ## Tools Used
 - Python
@@ -124,7 +125,7 @@ Top 10 Most Expensive Books
 
 Average Price by Rating
 
-<img width="2070" height="1467" alt="rating_distribution" src="https://github.com/user-attachments/assets/bd7e4db9-3f4e-413b-b925-797467c56d49" />
+<img width="2072" height="1467" alt="price_by_rating" src="https://github.com/user-attachments/assets/6c83f2da-5deb-43c3-9887-1e8c76bfa5c1" />
 
 ## Key Insights
 
